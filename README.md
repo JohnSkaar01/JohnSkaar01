@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JohnSkaar01
+- 🌱 I’m currently learning Php, Java, Java Script
+- 📫 How to reach me email or discord. I am still in the process of buying a domain so, my email will be on hold.
